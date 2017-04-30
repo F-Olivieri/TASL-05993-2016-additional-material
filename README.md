@@ -1,9 +1,9 @@
 # Additional material for the paper T-ASL-05993-2016
 
- Supplemental material for T-ASL-05993-2016
- Copyright (c) 2017, Ferdinando Olivieri
- E-mail: f.olivieri@ieee.org
- Last Update: 31st January 2017
+Supplemental material for T-ASL-05993-2016
+Copyright (c) 2017, Ferdinando Olivieri
+E-mail: f.olivieri@ieee.org
+Last Update: 31st January 2017
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
@@ -15,6 +15,7 @@ The README file contains detailed information about this Matlab script and the a
 ## Description
 
 This data set and code accompanies the manuscript:
+
 Ferdinando Olivieri, Filippo Maria Fazi, Simone Fontana, Dylan Menzies and Philip Arthur Nelson,
 "Generation of private sound with a circular loudspeaker array and the Weighted Pressure Matching method ",
 submitted for consideration to IEEE Transactions on Audio, Speech and Language Processing
@@ -25,7 +26,9 @@ Please refer to the information contained in the paper for a detailed explanatio
 
 The provided code has been tested with Matlab 2016b. The functions that implement the algorithm are provided in the FUNCTIONS section of this script.
 
-When using any part of this code or data, please cite above paper. We would appreciate if you send us a note to the email address provided above.
+When using any part of this code or data, please cite the paper mentioned above. We would appreciate if you send us a note to the email address provided above. The code repository is citable and further details may be found at the following link 
+
+[![DOI](https://zenodo.org/badge/89870495.svg)](https://zenodo.org/badge/latestdoi/89870495)
 
 ## Instructions
 1) Download the files contained in this repo.
