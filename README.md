@@ -12,7 +12,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 A README file should have been provided with this code. If that is not the case, please send an email to f.olivieri@ieee.org and request one. 
 The README file contains detailed information about this Matlab script and the associated data.
 
-Description:
+## Description
 
 This data set and code accompanies the manuscript:
 Ferdinando Olivieri, Filippo Maria Fazi, Simone Fontana, Dylan Menzies and Philip Arthur Nelson,
@@ -26,3 +26,7 @@ Please refer to the information contained in the paper for a detailed explanatio
 The provided code has been tested with Matlab 2016b. The functions that implement the algorithm are provided in the FUNCTIONS section of this script.
 
 When using any part of this code or data, please cite above paper. We would appreciate if you send us a note to the email address provided above.
+
+## Instructions
+1) Download the files contained in this repo.
+2) Run OlivieriEtAl_TASL059932016_code.m
